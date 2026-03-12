@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://USERNAME.github.io/REPO/sitemap.xml
+Sitemap: https://kom1sh.github.io/marketing/sitemap.xml
